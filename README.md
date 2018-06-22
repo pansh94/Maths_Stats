@@ -30,4 +30,4 @@ each line to find each variable.
 6. *birthwgt_lb* and *birthwgt_oz* contain the pounds and ounces parts of the birth weight of the baby.
 7. *agepreg* is the mother’s age at the end of the pregnancy.
 8. *finalwgt* is the statistical weight associated with the respondent. It is a floating-point value that indicates the number of people in the U.S. population this respondent represents.
->>>>>>> 7b70647e71208c01fe1035192dbdade462dadeed
+
