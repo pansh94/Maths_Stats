@@ -21,3 +21,5 @@ width columns.  Each line in the file is a record that contains data about one p
 context is a list of variable names, types, and indices that identify where in
 each line to find each variable.
 
+### Variable we are using in dataframe :
+1 .
