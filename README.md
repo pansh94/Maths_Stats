@@ -21,10 +21,6 @@ width columns.  Each line in the file is a record that contains data about one p
 context is a list of variable names, types, and indices that identify where in
 each line to find each variable.
 
-<<<<<<< HEAD
-### Variable we are using in dataframe :
-1 .
-=======
 ### Variable in dataframe :
 1. *caseid* is the integer ID of the respondent.
 2. *prglngth* is the integer duration of the pregnancy in weeks
