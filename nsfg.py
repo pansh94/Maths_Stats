@@ -83,6 +83,7 @@ def CleanFemPreg(df):
     # due to a bug in ReadStataDct, the last variable gets clipped;
     # so for now set it to NaN
     df.cmintvw = np.nan
+    return df ;
 
 
 def ValidatePregnum(resp, preg):

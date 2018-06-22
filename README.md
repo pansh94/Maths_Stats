@@ -21,5 +21,17 @@ width columns.  Each line in the file is a record that contains data about one p
 context is a list of variable names, types, and indices that identify where in
 each line to find each variable.
 
+<<<<<<< HEAD
 ### Variable we are using in dataframe :
 1 .
+=======
+### Variable in dataframe :
+1. *caseid* is the integer ID of the respondent.
+2. *prglngth* is the integer duration of the pregnancy in weeks
+3. *outcome* is an integer code for the outcome of the pregnancy. The code 1 indicates a live birth.
+4. *pregordr* is  a  pregnancy  serial  number;  for  example,  the  code  for  a respondent’s first pregnancy is 1, for the second       pregnancy is 2, and so on.
+5. *birthord* is a serial number for live births; the code for a respondent’s first child is 1, and so on.  For outcomes other than live birth, this field is blank.
+6. *birthwgt_lb* and *birthwgt_oz* contain the pounds and ounces parts of the birth weight of the baby.
+7. *agepreg* is the mother’s age at the end of the pregnancy.
+8. *finalwgt* is the statistical weight associated with the respondent. It is a floating-point value that indicates the number of people in the U.S. population this respondent represents.
+>>>>>>> 7b70647e71208c01fe1035192dbdade462dadeed
