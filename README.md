@@ -1,5 +1,5 @@
 # Maths_Stats
-Mathematical analysis of dataset. 
+Mathematical analysis of dataset. [Think Stat Book for Data Scientist](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
 ## DataSet Information
 Since  1973  the  U.S.  Centers  for  Disease  Control  and  Prevention  (CDC)
