@@ -31,10 +31,3 @@ each line to find each variable.
 7. *agepreg* is the mother’s age at the end of the pregnancy.
 8. *finalwgt* is the statistical weight associated with the respondent. It is a floating-point value that indicates the number of people in the U.S. population this respondent represents.
 
-### 3.Plotting Histogram(2.2) :
-Module called thinkplot.py provides functions for plotting Hists and other objects defined in thinkstats2.py. It is based on pyplot which  is  part  of  the matplotlib package. 
-```
-import thinkplot
-thinkplot.Hist(hist)
-thinkplot.Show(xlabel='value', ylabel='frequency')
-```
